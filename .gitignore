@@ -1,0 +1,14 @@
+node_modules
+dist
+.env
+.DS_Store
+*.log
+.vite
+*.tar.gz
+*.backup
+backups/
+.agents/
+.claude/
+.cursor/
+.gemini/
+.codex/
